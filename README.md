@@ -9,6 +9,7 @@
 - Sudhir Shukla
 - Rishav Raj
 - Ritik Vaidyasen
+- Amit Kumar Singh
 
 ### Proposed Features :
 
